@@ -1,4 +1,0 @@
-InteropMix
-==========
-
-InteropMix Website
