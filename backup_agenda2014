@@ -1,0 +1,1229 @@
+        
+      </div>
+
+      <div class="span12"> 
+        <!-- Tabs -->
+        <ul id="schedule-tabs" class="nav nav-pills tab-fillspace" style="text-align: center;">
+          <li class="active"><a href="#dayauditorio" data-toggle="tab">Auditório GUX</a></li>
+          <li class=""><a href="#dayandroid" data-toggle="tab">Android</a></li>
+          <li class=""><a href="#dayios" data-toggle="tab">iOS</a></li>
+          <li class=""><a href="#daywindows" data-toggle="tab">Windows</a></li>
+          <li class=""><a href="#daycustomobile" data-toggle="tab">Custom Mobile</a></li>
+          <li class=""><a href="#daybigdata" data-toggle="tab">Cloud &amp; Big Data</a></li>
+        </ul>
+        <!-- end tabs --> 
+      </div>
+      <!-- end span12 -->
+      <div class="tab-content">
+        <div class="tab-pane wo-tab-pane fade in active" id="dayauditorio">
+          <div class="span4">
+            <h2>Auditório GUX</h2>
+            <p>Auditório principal do evento onde estarão as principais palestras do evento.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvimento Cross-Mobile de Verdade!!!</h3>
+                      <h4>Alessandro Binhara <span>Azuris, Microsoft MTAC</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Tudo que as empresas querem é uma solução rápida, eficiente e que reduza custos. E no desenvolvimento Mobile não é diferente as empresa querem aplicações sejam criara para todoas as plataforma de forma nativa reaproveitando o máximo de cada plataforma. Com aplataforma Xamarin é possivel sem usar html ou java script ou qualquer tipo de solução cross-compile.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>StackOverflow em Português</h3>
+                      <h4>Luiz Ricardo <span>StackOverflow, GFT</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>IoT – Internet da Coisas / Windows Embedded e NFC-e</h3>
+                      <h4>Claudenir Andrade <span>Gerente P&amp;D - Daruma, Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Você já deve ter ouvido falar disso. Internet das Coisas (IoT Internet of things), tudo o que é dispositivo pessoal ou equipamento com um endereço IP,  sendo monitorado, gerenciado e telemetrado. Mas que tal começar a colocar a mão na massa e entender como interagir com os dispositivos por exemplo Chaves de contato liga e desliga,  medidores de potência, leds, tudo isso usando MicroFrameWork + Arduino = NetDuino em C#!!! Assista esta palestra e saia com o lado esquerdo do cérebro pipocando de ideias.  Seguindo a linha de Windows Embedded, saiba na última parte desta palestra como adaptar seu sistema para a Nota Fiscal Eletrônica de consumidor, e ter um dispositivo embarcado emitindo a NFC-e.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Desenvolvimento de Apps Acessíveis e Acessibilidade</h3>
+                      <h4>Alexandre Costa <span>Desenvolvedor de Acessibilidade</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Novidades o Unity3D 5.0!</h3>
+                      <h4>Jay Santos <span>Unity3D</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Desenvolvimento de games</h3>
+                      <h4>Redzero</h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>#vamosprogramar - Ensinando a Pensar Desde Já com Android</h3>
+                      <h4>Francisco Isidro Massetto <span>Universidade Federal do ABC</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>O projeto #vamosprogramar é um projeto que visa levar uma metodologia para ensino de programação de forma Gamificada. Foi desenvolvido um aplicativo em Android com base no modelo Scratch, porém resumido. O foco deste aplicativo, sendo Android é proporcionar duas principais características: facilidade (o usuário tem o dispositivo à mão rapidamente) e simplicidade (apesar do Scratch ser muito poderoso, ele possui muitos recursos que podem confundir um iniciante). A partir daí uma metodologia baseada em Games e RPG foi desenvolvida, integrando o App a um servidor de correções, que conduz o processo de evolução do estudo e também correções automáticas dos exercícios e desafios propostos. Os scripts criados pelos alunos são corrigidos e um feedback automático é gerado para que cada aluno saiba onde errou e acertou, com base em elementos pré-definidos.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+        <div class="tab-pane wo-tab-pane fade" id="dayandroid">
+          <div class="span4">
+            <h2>Sala Android</h2>
+            <p>Esta sala é destinada a assuntos voltados a plataforma Android e temas relacionado a Cross-Mobile Nativo para ambiente Android.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Sneer - A plataforma de Internet livre para Android</h3>
+                      <h4>Klaus Wuestefeld <span>Criador da Computação Soberana</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>O Sneer é uma plataforma de aplicações peer-to-peer livres, soberanas. Neste workshop você vai aprender a usar o Sneer para criar uma aplicação Android soberana, que pode atingir milhões de usuários na nuvem sem depender de nenhum servidor.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>OpenCV para você e para o Android</h3>
+                      <h4>Aleks Montanha <span>Msc Image Processing</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Para aqueles que querem fazer algo com imagens e não sabe como começar.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>F# para Android</h3>
+                      <h4>Rafael Teixeira <span>MonoMan</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Do sonho a conquista: como se tornar um gamer/desenvolvedor</h3>
+                      <h4>Rafaela Costa <span>Campeã mundial do Imagine Cup, Diretora da Axis 3D</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Cross-Mobile com Java e LibGDX: faça seu primeiro game em Java e rode-o multiplataforma</h3>
+                      <h4>Francisco Isidro Massetto <span>Universidade Federal do ABC</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Esta palestra apresenta um framework ainda pouco conhecido pela comunidade de desenvolvedores de jogos, a LibGDX. Com LibGDX e RoboVM, é possível criar games Cross-Mobile em Android e iOS  usando como base a linguagem Java, muito difundida entre os desenvolvedores, porém pouco utilizada para games. Vamos discutir prós, contras, recursos e limitações deste framework para o desenvolvimento de jogos.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>C++​ ao resgate - Acelerando apps Android com instruções SIMD</h3>
+                      <h4>Carlos Rafael Gimenes das Neves <span>Professor BandTec</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Introdução sobre os conceitos de SIMD. Integrando código nativo C++ à aplicações Java. Conjunto de instruções NEON da arquitetura ARM. Exemplos de como utilizar instruções NEON, em um breve tutorial. Case final: como o SIMD ajudou a melhorar o desempenho de uma aplicação real no Google Play.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>AOSP - O que realmente é open source e o que não é no Android.</h3>
+                      <h4>Alexandre Marcondes <span>Xamarin Developer</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>AOSP, Android Open Source Project, muito se fala do android mas poucas pessoas realmente o que é open source e o que não é opensource. Essa palestra visa apresentar o AOSP com suas características e conceitos para aquele que querem conhecer um pouco mais a fundo o Android.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+        <div class="tab-pane wo-tab-pane fade" id="dayios">
+          <div class="span4">
+            <h2>Sala iOS</h2>
+            <p>Sala volta a plataforma iOS e MAC para soluções nativas de mobilidade e soluções cross-mobile.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Introdução ao CocosSharp</h3>
+                      <h4>Antonio Farias - JALF <span>Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Nessa palestra iremos dar os primeiros passos na recém-lançada biblioteca de jogos 2D criada pela Xamarin, a CocosSharp. Construída em cima do MonoGame, ela combina o poder do modelo de programação da popular engine Cocos2D com C#.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvimento de APIs no vNext na plataforma Apple</h3>
+                      <h4>André Baltieri <span>Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Com a chegada do vNext e a maior abertura da plataforma .NET para o mundo Open Source, temos agora a possibilidade de desfrutar dos vários recursos de desenvolvimento de APIs da plataforma .NET em outras plataformas. Nesta palestra vamos ver como podemos criar APIs utilizando vNext na plataforma Apple.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Usando C# para desenvolver app iPhone e iPad!!! Sim, é possível!!!</h3>
+                      <h4>Alexandre Marcondes <span>Xamarin Developer</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Caso você seja um daquelas pessoas que gostaria de desenvolver para iOS mas não está afim de aprender Objective-C. E gostaria de usar uma linguagem mais moderna como C# e de brinde conseguir reaproveitar todo código iOS para o Android de forma nativa. Essa palestra é para você venha conhecer como essa mágica é possível, pois muitos só acreditam vendo. Demonstrações e cases reais.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Surfando em mercados de advergames e games com Unity</h3>
+                      <h4>Alexandre Kikuchi <span>Game Developer</span></h4>
+                      <h4>Thiago Bertoni <span>Developer</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Mostrar rapidamente como criam-se conceitos e produções de advergames. Gerenciamento de projetos com equipe pequena e com qualidade usando Unity. Diferenças e similaridades entre advergames e games na prática. Vantagens de utilizar uma ferramenta ultiplataforma para seus produtos e negócios. Exemplos e cases reais.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>E-DUC - Realidade aumentada e o futuro do livro didático</h3>
+                      <h4>Rawlinson Peter <span>Cofundador e CEO da E-DUC</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Estamos no início de uma grande mudança na forma como as pessoas utilizarão a tecnologia para ler, ensinar, aprender e se comunicar. A visão e a audição computacional irão potencializar os sentidos humanos, e a comunicação, irá ultrapassar a última barreira da globalização que é a da linguagem universal. Tudo o que é físico e analógico será conectado através da realidade aumentada. As pessoas utilizarão todo o potencial da computação - que emerge do mundo digital e virtual - no seu cotidiano, através de dispositivos que liberam os sentidos e a cognição humana para uma nova experiência perceptiva (a realidade mediada). Nesta palestra a Startup E-DUC irá demonstrar como está construindo o futuro do livro didático e outras coisas mais.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>iOS 8 com Swift - Novidades e a nova linguagem da Apple ao seu alcance</h3>
+                      <h4>Alexandre Marcondes <span>Xamarin Developer</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Xamarin Forms - Criando aplicativos multi-plataforma com apenas um código</h3>
+                      <h4>Weliton Carlos <span>Site Como Criar Aplicativos</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Xamarin Forms é uma ferramenta que proporciona codificar uma vez em C# e ter um aplicativo nativo nas três principais plataformas (iOS, Android e Windows Phone) criados nativamente respeitando as especificações e padrões de UI de cada plataforma. Nesta palestra, estarei demonstrando como criar um aplicativo e executar nas três plataformas.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+        <div class="tab-pane wo-tab-pane fade" id="daywindows">
+          <div class="span4">
+            <h2>Sala Windows</h2>
+            <p>Sala dedicada a tecnologias Mobile com Windows Phone e Windows 8 e windows Tables, Windows Azure e afins.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Realidade virtual para todos: BEENOCULUS o primeiro óculos de realidade virtual brasileiro</h3>
+                      <h4>José E. Terrabuio Jr. <span>CIO da BeeTech</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>A realidade virtual sempre foi tema de filmes de ficção científica, mas isso está a um passo de se tornar realidade com diversas iniciativas que estão surgindo. Entre elas podemos citar a compra da empresa OculusRift pelo Facebook por 2 bilhões de dólares e outras empresas como Samsung e Sony que já tem seus protótipos. O Brasil não está de fora desse mercado e nós da BEENOCULUS estaremos apresentando nosso protótipo de um óculos para realidade virtual 100% de tecnologia nacional. O BEENOCULUS será lançado na CES em Las Vegas em janeiro de 2015, mas você poderá ter uma prévia do que será lançado nos EUA.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvimentos de jogos multiplataforma com MonoGame para W8, WP8 e Android</h3>
+                      <h4>Alexandre Chohfi <span>Game Developer, Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Nesta palestra você terá uma noção geral de como desenvolver jogos para Windows 8, Windows Phone 8, Android, iPhone, e várias outras plataformas, com C# e MonoGame, uma implementação open source do XNA, entendendo os principais aspectos do desenvolvimento de um jogo multiplataforma.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvendo ASP.NET 100% no Linux com ASP.NET vNext</h3>
+                      <h4>Giovanni Bassi <span>Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Desenvolvendo ASP.NET 100% no Linux com ASP.NET vNext sempre foi uma plataforma que, apesar de rodar no Linux, foi feita pra Windows. Não mais. Venha ver porque agora o Linux é cidadão de primeira classe nessa nova encarnação do ASP.NET. Nessa palestra não veremos Windows em nenhum momento, vamos ver muito terminal, VI e Sublime.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Virtualizando Linux e FreeBSD na nova versão do Windows Server Hyper-V</h3>
+                      <h4>André Ruschel <span>Escola Big Master</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>No datacenter moderno de hoje, ambientes heterogêneos com o Windows Server, Linux e FreeBSD são mais comuns do que não. Ser capaz de executar todas as suas cargas de trabalho virtualizadas em um único hypervisor simplifica o gerenciamento e otimiza a capacidade do servidor. Nesta sessão, nós exploramos o nível de suporte Hyper-V 2012 R2 tem para Linux e distribuições baseadas no FreeBSD e como os administradores de TI e arquitetos podem garantir o desempenho e confiabilidade superior em execução no Hyper-V.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Interoperabilidade com Big Data Hadoop para Windows Azure e Analise Service</h3>
+                      <h4>Leonardo Marques <span>Data Scientist</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>O que é Big Data e BI? O que é um Cientista de Dados? O que é Hadoop? O que é Hortonworks Haddoop? Estou todos são alguns das perguntas que são abordadas nesta palestra apresentando o Hadoop como  plataforma de Big Data e como realizar a interoperabilidade com  Windows Azure e as ferramentas de BI da Microsoft.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Mercado de jogos e como se tornar um desenvolvedor</h3>
+                      <h4>Rafaela Costa <span>Campeã mundial do Imagine Cup, Diretora da Axis 3D</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Reaproveitando código entre plataformas com Xamarin e MvvmCross</h3>
+                      <h4>Ricardo Dorta <span>Microsoft MVP</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+        <div class="tab-pane wo-tab-pane fade" id="daycustomobile">
+          <div class="span4">
+            <h2>Sala Custom Mobile</h2>
+            <p>Dedicada a soluções customizada de mobile com Arduino, RasperberyPI , NetDuino e outros soluções com as mesma características.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvendo com C# e NETDuino</h3>
+                      <h4>Claudenir Andrade <span>Gerente P&amp;D - Daruma, Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>O Arduino nem sempre torna a vida do programador fácil. Mas para quem conhece o C# uma ótima opção é o NETDuino que possibilita o uso do .NET um um hardware muito similar ao Arduino.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Automação Comercial com Android e Xamarin</h3>
+                      <h4>Claudenir Andrade <span>Gerente P&amp;D - Daruma, Microsoft MVP</span></h4>
+                      <h4>Bianca Berdugo</h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>IoT: de programador para maker</h3>
+                      <h4>Antonio Farias - JALF <span>Microsoft MVP</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>A transição do mundo de software para hardware não é algo simples, porém nunca foi tão fácil. Acompanhe na palestra como levar o seu conhecimento de programação para o mundo "real" e para o mundo da IoT!</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>MonoPi: RaspberryPi e Mono têm tudo a ver</h3>
+                      <h4>Rafael Teixeira <span>MonoMan</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Poder programar o diminuto computador em C# e/ou F# é uma das melhores formas de implementar soluções simples mas poderosas e com melhor performance que as alternativas clássicas. Vamos ver como colocar uma pequena aplicação Web no ar!</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Universal Apps: o que são e como usar</h3>
+                      <h4>Giovanni Bassi <span>Microsoft MVP</span></h4>
+                      <h4>Fernando Oliveira <span>Lambda3</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Quando o Windows 8 e o Windows Phone 8 passaram a compartilhar o mesmo kernel passou a ser possível compartilhar uma grande parte do código. Agora damos um passo a frente com as Universal Apps, onde ainda mais código é compartilhado. Venha ver nessa palestra o que isso significa, e entender que a ideia não para por aí, e vai tocar também aplicações feitas para iOS e Android.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Visão Computacional e Big Data Aplicado ao Monitoramento de Trânsito</h3>
+                      <h4>Alessandro Binhara <span>Azuris, Microsoft MTAC</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Desenvolvendo jogos e apps imersivos para realidade virtual com Unreal e Unity</h3>
+                      <h4>Caio Augusto Comandulli <span>Desenvolvedor BeeTech</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Você quer começar a desenvolver jogos e serious games para óculos de realidade virtual? Venha conhecer nessa palestra como desenvolver games para o BEENOCULUS com Unreal e Unity e faça parte desse novo mercado que está para surgir.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+        <div class="tab-pane wo-tab-pane fade" id="daybigdata"> 
+          <div class="span4">
+            <h2>Cloud &amp; Big Data</h2>
+            <p>Esta trilha está focada em assuntos de Cloud Computing, Big Data e interoperbilidade de sistemas nas nuvens.</p>
+            <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
+          </div>
+          <div class="span8">
+			<h4 class="text-center">Sábado, 29 de novembro</h4>
+            <section class="timeline toggle-shortcode toggles"> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>08:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Credenciamento</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>09:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Aplicações de grande escala em Big Data</h3>
+                      <h4>André da Costa Silva <span>Diretor Técnico na Secretaria da Educação do Estado de São Paulo</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Características do desenvolvimento de aplicações em larga escala (cases de sucesso, problemas e melhores práticas).</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>10:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Automação para o processo Ágil com uso de Cloud Computing</h3>
+                      <h4>Luiz Augusto Garcia Tomazzeli <span>Objective Solutions</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Esta palestra irá mostrar um "valor ágil" em um projeto de software, os problemas práticos existentes, e as automações que foram feitas para resolver cada problema prático e como usar a cloud da Amazon para suportar as práticas ágeis.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-clock"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Intervalo</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>11:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>CloudWebIDE + EasyCloud - Um ambiente integrado totalmente na nuvem para desenvolvimento de aplicações</h3>
+                      <h4>Francisco Isidro Massetto <span>Universidade Federal do ABC</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Um dos principais desafios para quem inicia no desenvolvimento de aplicações BigData e Cloud é justamente a falta de ambientes computacionais, bem como a complexidade de configuração inicial destes ambientes. Neste sentido, uma ferramenta que facilite o usuário iniciante a ter contato com as APIs e bibliotecas de programação distribuídas podem facilitar o aprendizado e também poupar boa parte do esforço de configuração. Deste modo, foi desenvolvido na UFABC uma suite de ferramentas compostas pela CloudWebIDE, uma IDE totalmente implementada para executar em um browser que permite aos programadores desenvolverem aplicações Map-Reduce em Java bem como configurar seu ambiente de execução. Nesta segunda funcionalidade, também apresentamos o EasyCloud, uma ferramenta de gerenciamento de máquinas virtuais de forma elástica para proporcionar um ambiente dinâmico de IAAS para os programadores.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-sun"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>12:10</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Parada para o almoço</h3>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>13:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Big Data e processamento de imagens</h3>
+                      <h4>Aleks Montanha <span>Msc Image Processing</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>O poder do Big Data com a proeza dos algoritmos de processamento de imagens.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>14:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Coisas estranhas que podemos fazer com dados coletados em dispositivos móveis: bye-bye privacidade!</h3>
+                      <h4>Fabrício Barth <span>Professor BandTec</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>15:30</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Coffee-Break <span>Patrocínio BandTec</span></h3>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Agradecimentos à BandTec pelo apoio e patrocínio ao evento.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>16:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="toggle-item-title event-title" data-count="1">
+                      <h3>Como começar uma prática de DevOps com Visual Studio e Azure</h3>
+                      <h4>Danilo Bordini <span>Microsoft</span></h4>
+                    </div>
+                    <div class="toggle-item-body" style="display: none;">
+                      <p>Não há dúvidas de que tendências tecnologias tais como Cloud e mobilidade mudaram a maneira de se desenvolver e gerenciar software. Mas outro movimento que se fortalece é o de DevOps, onde o time de Desenvolvimento e Operações trabalham juntos, lado a lado, com um objetivo comum. É isso possível? Quais as recomendações para se aplicar uma prática de DevOps? Onde pode ser aplicado? Que ferramentas posso usar? Conversaremos sobre esses tópicos e mostraremos a visão de Microsoft, utilizando ferramentas open source também, de como se construir uma solução de DevOps.</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box">
+                  <time>17:00</time>
+                </div>
+                <div class="timeline-content">
+                  <div class="event-content">
+                    <div class="event-title" data-count="1">
+                      <h3>Big Data, Hadoop e os SGDBS nos dias de hoje</h3>
+                      <h4>Leonardo Marques <span>Data Scientist</span></h4>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
