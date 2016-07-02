@@ -1,0 +1,15 @@
+App_Data/
+bin/
+Misc/
+obj/
+Properties/
+*.xlsx
+Enrollment.ashx
+Enrollment.ashx.cs
+Site.csproj
+Site.csproj.user
+Site.sln
+Site.v11.suo
+Web.config
+Web.Debug.config
+Web.Release.config
