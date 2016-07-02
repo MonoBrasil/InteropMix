@@ -1,0 +1,63 @@
+</div>
+      
+      <!-- end span12 -->
+      <ul class="event-items workshop-parent">
+        <li class="event-item clearfix span4 workshop-item">
+          <div class="event-date">
+            <time datetime="2014-11-29">Sábado, 24 de Outubro</time>
+          </div>
+          <!-- end event-date -->
+          <!-- <div class="share-widget"> <a href="#"><i class="iconf-facebook"></i></a> <a href="#"><i class="iconf-twitter"></i> </a> -->
+            <!-- end share-widget --> 
+          <!-- </div> -->
+          <br class="clearfix" />
+          <div class="event-entry text-center">
+            <h3 class="entry-title">Oficina Embedded System DARUMA</h3>
+            <p class="lead">Claudenir Andrade</p>
+            <div class="event-image"> <img src="images/sponsors/NovoLogoUrmetDaruma.png" alt="Education Seminar" /> </div>
+            <div class="entry-content">
+              <h4>
+                <time datetime="13:30">13:30 - 17:30</time>
+              </h4>
+              <h4>Android Para Automação Comercial</h4>
+              <p>Desenvolva passo a passo para Automação Comercial e NFCE usando Tablet, Windows 8, Android, Embedded System Traga Notebook  e saia desta oficina emitindo uma NFC-e com QRCode e tudo.
+
+            </p>
+            </div>
+            <!-- end event-entry --> 
+          </div>
+          <!-- end span4 --> 
+        </li>
+
+
+        
+
+        <!-- end event-item -->
+        <li class="event-item clearfix span4 workshop-item">
+          <div class="event-date">
+            <time datetime="2014-11-29">Sábado, 24 de Outubro</time>
+          </div>
+          <!-- end event-date -->
+          <!-- <div class="share-widget"> <a href="#"><i class="iconf-facebook"></i></a> <a href="#"><i class="iconf-twitter"></i> </a> -->
+            <!-- end share-widget --> 
+          <!-- </div> -->
+          <br class="clearfix" />
+          <div class="event-entry text-center">
+            <h3 class="entry-title">Xamarin Cross-Mobile</h3>
+            <p class="lead">Azuris</p>
+            <div class="event-image"> <img src="images/photos/780x780-03.jpg" alt="Xamarin Cross-Mobile" class="img-circle" /> </div>
+            <div class="entry-content">
+              <h4>
+                <time datetime="08:30">08:30 - 12:30</time>
+              </h4>
+              <h4>Cross-Mobile na Veia!!!</h4>
+              <p>O paradigma mobile mudou o a forma como as aplicações chegam aos usuários e com isto o desenvolvedor precisa se adaptar a este novo mundo, mas com plataformas tão distintas, utilizando linguagens tão diferentes como conseguir desenvolver para várias plataformas sem sofrer além do necessário? Desenvolvimento Cross-Mobile para  Para Android, iOS e Windows Phone!!</p>
+            </div>
+            <!-- end event-entry --> 
+          </div>
+          <!-- end span4 --> 
+        </li>
+
+
+      </ul>
+    </div>
