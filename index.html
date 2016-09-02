@@ -31,8 +31,8 @@
 <link rel="stylesheet" href="css/flexslider.css" />
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 <!-- Favicon and touch icons -->
 <link rel="apple-touch-icon" href="images/touch-icon-iphone.png" />
 <link rel="apple-touch-icon" sizes="76x76" href="images/touch-icon-ipad.png" />
@@ -40,15 +40,15 @@
 <link rel="apple-touch-icon" sizes="152x152" href="images/touch-icon-ipad-retina.png" />
 <link rel="shortcut icon" href="images/favicon.ico" />
 <style type="text/css">
-	.fb-share-button span, .fb-share-button iframe { height:26px!important; width:200px!important; }
-	.workshop-parent {
-		text-align: center;
-	}
-	.workshop-item {
-		float: none;
-		display: inline-block;
-		vertical-align: top;
-	}
+  .fb-share-button span, .fb-share-button iframe { height:26px!important; width:200px!important; }
+  .workshop-parent {
+    text-align: center;
+  }
+  .workshop-item {
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+  }
 </style>
 </head>
 
@@ -145,69 +145,69 @@
         <div class="price-content">
           <p id="p-fb"></p>
 
-		  <form name="frmEnrollment" id="frmEnrollment" method="post" action="http://goo.gl/forms/V3Og8CF2sFbg0dGC2">
-			<label for="txtName" class="control-label">Nome:</label>
-			<input style="width: 50%;" type="text" name="txtName" id="txtName" value="" class="validate[required] input-block-level" required="required" />
-			<label for="txtMail" class="control-label">E-mail:</label>
-			<input style="width: 50%;" type="email" id="txtMail" name="txtMail" value="" spellcheck="false" class="validate[required,custom[email]] input-block-level" required="required" />
-			<input type="hidden" id="txtResponse" name="txtResponse" value="" />
-			<br />
-			<input type="submit" id="btnSend" class="btn btn-primary" name="btnSend" value="INSCREVA-ME!" />
-		  </form>
+      <form name="frmEnrollment" id="frmEnrollment" method="post" action="http://goo.gl/forms/V3Og8CF2sFbg0dGC2">
+      <label for="txtName" class="control-label">Nome:</label>
+      <input style="width: 50%;" type="text" name="txtName" id="txtName" value="" class="validate[required] input-block-level" required="required" />
+      <label for="txtMail" class="control-label">E-mail:</label>
+      <input style="width: 50%;" type="email" id="txtMail" name="txtMail" value="" spellcheck="false" class="validate[required,custom[email]] input-block-level" required="required" />
+      <input type="hidden" id="txtResponse" name="txtResponse" value="" />
+      <br />
+      <input type="submit" id="btnSend" class="btn btn-primary" name="btnSend" value="INSCREVA-ME!" />
+      </form>
 
           <div id="fb-root"></div>
-		  <!--<fb:like href="http://interopmix.com.br" width="280" layout="standard" action="like" send="false" show_faces="false" share="false"></fb:like>-->
+      <!--<fb:like href="http://interopmix.com.br" width="280" layout="standard" action="like" send="false" show_faces="false" share="false"></fb:like>-->
           <script type="text/javascript">
-          	/*function checkFB() {
-          		FB.getLoginStatus(function (response) {
-          			if (response.status === "connected") {
-          				// the user is logged in and has authenticated your
-          				// app, and response.authResponse supplies
-          				// the user's ID, a valid access token, a signed
-          				// request, and the time the access token 
-          				// and signed request each expire
-          				var uid = response.authResponse.userID;
-          				var accessToken = response.authResponse.accessToken;
-          				alert("co");
-          			} else if (response.status === "not_authorized") {
-          				// the user is logged in to Facebook, 
-          				// but has not authenticated your app
-          				alert("na");
-          			} else {
-          				// the user isn't logged in to Facebook.
-          				alert("nl");
-          			}
-          		});
-          	}*/
-          	/*function showContent(response) {
-          		var r = document.getElementById("fb-like-btn");
-          		r.parentNode.removeChild(r);
-          		document.getElementById("p-fb").innerHTML = "";
-          		document.getElementById("frmEnrollment").className = "";
-          		document.getElementById("txtResponse").value = response;
-          		return true;
-          	}*/
-          	window.fbAsyncInit = function () {
-          		FB.init({
-          			appId: "199517276819039", //"884558548239874", //199517276819039
-          			status: true,
-          			xfbml: true,
-          			version: "v2.0"
-          		});
-          		/*FB.Event.subscribe("auth.statusChange", function (response) {
-          			checkFB();
-          		});
-          		FB.Event.subscribe("auth.authResponseChanged", function (response) {
-          			checkFB();
-          		});
-          		FB.Event.subscribe("auth.login", function (response) {
-          			checkFB();
-          		});*/
-          		/*FB.Event.subscribe("edge.create", function (response) {
-          			return showContent(response);
-          		});*/
-          		//checkFB();
-          	};
+            /*function checkFB() {
+              FB.getLoginStatus(function (response) {
+                if (response.status === "connected") {
+                  // the user is logged in and has authenticated your
+                  // app, and response.authResponse supplies
+                  // the user's ID, a valid access token, a signed
+                  // request, and the time the access token 
+                  // and signed request each expire
+                  var uid = response.authResponse.userID;
+                  var accessToken = response.authResponse.accessToken;
+                  alert("co");
+                } else if (response.status === "not_authorized") {
+                  // the user is logged in to Facebook, 
+                  // but has not authenticated your app
+                  alert("na");
+                } else {
+                  // the user isn't logged in to Facebook.
+                  alert("nl");
+                }
+              });
+            }*/
+            /*function showContent(response) {
+              var r = document.getElementById("fb-like-btn");
+              r.parentNode.removeChild(r);
+              document.getElementById("p-fb").innerHTML = "";
+              document.getElementById("frmEnrollment").className = "";
+              document.getElementById("txtResponse").value = response;
+              return true;
+            }*/
+            window.fbAsyncInit = function () {
+              FB.init({
+                appId: "199517276819039", //"884558548239874", //199517276819039
+                status: true,
+                xfbml: true,
+                version: "v2.0"
+              });
+              /*FB.Event.subscribe("auth.statusChange", function (response) {
+                checkFB();
+              });
+              FB.Event.subscribe("auth.authResponseChanged", function (response) {
+                checkFB();
+              });
+              FB.Event.subscribe("auth.login", function (response) {
+                checkFB();
+              });*/
+              /*FB.Event.subscribe("edge.create", function (response) {
+                return showContent(response);
+              });*/
+              //checkFB();
+            };
           </script>
         </div>
         <!-- end price-content --> 
@@ -217,9 +217,9 @@
   </div>
   <!-- end modal-body -->
   <div class="modal-footer"> 
-	  <div style="float: left; display: inline-block; vertical-align: top; text-align: left;"><div id="fb-like-btn" class="fb-like-box" data-href="https://www.facebook.com/InteropMIX" data-width="280" data-height="20" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div><br />
-		  <div class="fb-share-button" data-href="http://www.interopmix.com.br" data-type="button_count" data-width="200" data-height="26"></div></div>
-	  <a data-dismiss="modal" class="btn">Fechar</a> </div>
+    <div style="float: left; display: inline-block; vertical-align: top; text-align: left;"><div id="fb-like-btn" class="fb-like-box" data-href="https://www.facebook.com/InteropMIX" data-width="280" data-height="20" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div><br />
+      <div class="fb-share-button" data-href="http://www.interopmix.com.br" data-type="button_count" data-width="200" data-height="26"></div></div>
+    <a data-dismiss="modal" class="btn">Fechar</a> </div>
   <script type="text/javascript" id="facebook-jssdk" src="//connect.facebook.net/pt_BR/sdk.js"></script>
 </div>
 <!-- top-bar, intro & modal end here -->
@@ -253,7 +253,7 @@
         <div class="icon-wrap large color2"><i class="iconf-world"></i> </div>
         <h3>Encontros</h3>
         <p> Venha conhecer os criadores do Projeto Mono no Brasil, ter contato com a comunidade Xamarin do Brasil e comunidade DBA Brasil.</p>
-		
+    
       </div>
       <div class="span4 text-center">
         <div class="icon-wrap large color3"><i class="iconf-beaker"></i> </div>
@@ -268,11 +268,11 @@
 <section id="register">
   <div class="container">
     <div class="row">
-	<!--
+  <!--
       <div id="countdown"></div>
       <div class="span12 white register-box text-center">
         <a href="#inscricoes"  class="btn btn-large btn-primary">111INSCREVA-ME!</a> </div>
-		-->
+    -->
     </div>
     <!-- end row --> 
   </div>
@@ -826,45 +826,45 @@
           </ul>
         </div>
         <!-- end speakerscarousel --> 
-			<script type="text/javascript">
-				(function () {
-					var isPrev = false, btnPrev = document.getElementById("speakerscarousel"), btnNext = null, carouselAutoEnabled = true;
-					btnPrev.addEventListener("mouseenter", function () {
-						carouselAutoEnabled = false;
-					}, false);
-					btnPrev.addEventListener("mouseleave", function () {
-						carouselAutoEnabled = true;
-					}, false);
-					function handleTimeout() {
-						if (btnNext) {
-							if (isPrev) {
-								if (btnPrev.getAttribute("disabled"))
-									isPrev = false;
-							} else {
-								if (btnNext.getAttribute("disabled"))
-									isPrev = true;
-							}
-							if (carouselAutoEnabled) {
-								if (isPrev)
-									btnPrev.click();
-								else
-									btnNext.click();
-							}
-							window.setTimeout(handleTimeout, 3500);
-						} else {
-							btnNext = btnPrev.getElementsByTagName("input");
-							if (!btnNext || !btnNext.length || btnNext.length < 2) {
-								btnNext = null;
-							} else {
-								btnPrev = btnNext[0];
-								btnNext = btnNext[1];
-							}
-							window.setTimeout(handleTimeout, 500);
-						}
-					}
-					window.setTimeout(handleTimeout, 500);
-				})();
-			</script>
+      <script type="text/javascript">
+        (function () {
+          var isPrev = false, btnPrev = document.getElementById("speakerscarousel"), btnNext = null, carouselAutoEnabled = true;
+          btnPrev.addEventListener("mouseenter", function () {
+            carouselAutoEnabled = false;
+          }, false);
+          btnPrev.addEventListener("mouseleave", function () {
+            carouselAutoEnabled = true;
+          }, false);
+          function handleTimeout() {
+            if (btnNext) {
+              if (isPrev) {
+                if (btnPrev.getAttribute("disabled"))
+                  isPrev = false;
+              } else {
+                if (btnNext.getAttribute("disabled"))
+                  isPrev = true;
+              }
+              if (carouselAutoEnabled) {
+                if (isPrev)
+                  btnPrev.click();
+                else
+                  btnNext.click();
+              }
+              window.setTimeout(handleTimeout, 3500);
+            } else {
+              btnNext = btnPrev.getElementsByTagName("input");
+              if (!btnNext || !btnNext.length || btnNext.length < 2) {
+                btnNext = null;
+              } else {
+                btnPrev = btnNext[0];
+                btnNext = btnNext[1];
+              }
+              window.setTimeout(handleTimeout, 500);
+            }
+          }
+          window.setTimeout(handleTimeout, 500);
+        })();
+      </script>
       </div>
     </div>
     <!-- end row --> 
@@ -984,7 +984,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 19 de Novembro</h4>
+      <h4 class="text-center">Sábado, 19 de Novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -1167,7 +1167,7 @@
                 </div>
                 <div class="timeline-content">
                   <div class="event-content">
-                    <div class="toggle-item-title event-title" data-count="1">
+                    <div class="event-title" data-count="1">
                       <h3>Melhores práticas para projetos em Realidade Virtual</h3>
                       <h4>Jay Santos<span> Unity3d</span></h4>
                     </div>
@@ -1209,7 +1209,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 19 de Novembro</h4>
+      <h4 class="text-center">Sábado, 19 de Novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -1321,7 +1321,8 @@
                   <time>13:30</time>
                 </div>
                 <div class="timeline-content">
-                                     
+                  <div class="event-content"><div class="toggle-item-body" style="display: none;">
+                    
                     <div class="toggle-item-title event-title" data-count="1">
                       <h3>Xamarin & Realm uma alternativa non-ORM para o SQLite</h3>
                       <h4>  William S. Rodriguez <span>  Microsoft & Xamarin MVP</span></h4>
@@ -1341,18 +1342,15 @@
                 <div class="time-box">
                   <time>14:30</time>
                 </div>
-
                 <div class="timeline-content">
                   <div class="event-content">
                     <div class="toggle-item-title event-title" data-count="1">
                       <h3>Desenvolvimento de Plugin para Refactorings no Visual Studio</h3>
                       <h4>Rafael Teixeira <span> MonoMan</span></h4>
                     </div>
-
                     <div class="toggle-item-body" style="display: none;">
                       <p></p>
                     </div>
-
                   </div>
                 </div>
               </article>
@@ -1425,7 +1423,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 19 de Novembro</h4>
+      <h4 class="text-center">Sábado, 19 de Novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -1629,7 +1627,7 @@
           </div>
         </div>
 
-	<div class="span12">
+  <div class="span12">
         <div class="module-header schedule-header" style="margin-top: 50px;">
           <h3><b>Curitiba, 1 de Outubro</b></h3>
         </div>
@@ -1660,7 +1658,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 19 de Novembro</h4>
+      <h4 class="text-center">Sábado, 19 de Novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -1747,7 +1745,7 @@
                     
                     <div class="toggle-item-title event-title" data-count="1">
                       <h3>Novidades do FireBase 2.0 para desenvolvimento Mobile</h3>
-                      <h4>Bruno Scrok Brunoro <span>Organizer Google Developer Group Curitiba </span></h4>
+                      <h4>Bruno Scrok Brunoro <span>Organizer Google Developer Group Curitiba </span></h4>
                     </div>
 
                     <div class="toggle-item-body" style="display: none;">
@@ -1878,7 +1876,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 1 de outubro - Curitiba</h4>
+      <h4 class="text-center">Sábado, 1 de outubro - Curitiba</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -1905,7 +1903,7 @@
                 <div class="timeline-content">
                   <div class="event-content">
                     <div class="toggle-item-title event-title" data-count="1">
-                      <h3>Introdução ao Desenvolvimento de Realidade Virtual </h3>
+                      <h3>Introdução ao Desenvolvimento de Realidade Virtual </h3>
                       <h4>Lucas Begnini <span> Beenoculus</span></h4>
                     </div>
                     <div class="toggle-item-body" style="display: none;">
@@ -1996,7 +1994,7 @@
                 <div class="timeline-content">
                   <div class="event-content">
                     <div class="toggle-item-title event-title" data-count="1">
-                      <h3> Motion Sense para jogos em VR </h3>
+                      <h3> Motion Sense para jogos em VR </h3>
                       <h4> Lucas Begnini  <span> Beenoculus  </span></h4>
                     </div>
                      <div class="toggle-item-body" style="display: none;">
@@ -2076,7 +2074,7 @@
                       <h4> Cases de AR/VR na construção Civil<span>EM BREVE</span></h4>
                     </div>
                     <div class="toggle-item-body" style="display: none;">
-                      <p> Palestra sobre o case de utilização de AR/VR na construção Civil </p>
+                      <p> Palestra sobre o case de utilização de AR/VR na construção Civil </p>
                     </div>
                   </div>
                 </div>
@@ -2092,7 +2090,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">curitiba, 1 de outubro</h4>
+      <h4 class="text-center">curitiba, 1 de outubro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -2172,8 +2170,8 @@
                 <div class="timeline-content">
                   <div class="event-content">
                     <div class="toggle-item-title event-title" data-count="1">
-                      <h3> IBM CloudComputing</h3>
-                      <h4> Ezequiel Kwasnicki <span>IBM</span></h4>
+                      <h3> Visualização de Dados e comportamento social com Hadoop + PowerBI</h3>
+                      <h4>  <span></span></h4>
                     </div>
                     <div class="toggle-item-body" style="display: none;">
                       <p> BREVE</p>
@@ -2308,7 +2306,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 29 de novembro</h4>
+      <h4 class="text-center">Sábado, 29 de novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -2510,7 +2508,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 29 de novembro</h4>
+      <h4 class="text-center">Sábado, 29 de novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -2714,7 +2712,7 @@
             <div class="schedule-download"><a href="AgendaSabadoV6.pdf" class="btn"><i class="iconf-acrobat"></i><p>Agenda Completa - Sábado</p></a></div>
           </div>
           <div class="span8">
-			<h4 class="text-center">Sábado, 29 de novembro</h4>
+      <h4 class="text-center">Sábado, 29 de novembro</h4>
             <section class="timeline toggle-shortcode toggles"> 
               <article class="event">
                 <div class="timeline-icon">
@@ -3187,7 +3185,7 @@
       <div class="span12" id="ErrorMsgs"></div>
       <!-- end ErrorMsgs -->
       <form name="contactform" id="contactform" method="post" action="http://bandtecweb.azurewebsites.net/Enrollment.ashx">
-		  <input type="hidden" name="formName" value="contactform" />
+      <input type="hidden" name="formName" value="contactform" />
         <div class="control-group span4">
           <label for="contact_name" class="control-label">Nome:</label>
           <div class="controls">
@@ -3279,4 +3277,3 @@
 <!-- Google analytics here -->
 </body>
 </html>
-
